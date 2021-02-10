@@ -411,4 +411,10 @@ input[type="text"] {
     .intro_text{
         font-size:70px
     }
+    .communication{
+        background-color: #045089;
+        border-radius: 20px;
+        padding: 40px;
+        overflow: hidden;
+    }
 }
