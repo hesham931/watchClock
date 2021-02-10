@@ -384,4 +384,10 @@ input[type="text"] {
         position:relative;
         left:100px
     }
+    #header{
+        height:150px
+    }
+    .intro{
+        height:1000px
+    }
 }
