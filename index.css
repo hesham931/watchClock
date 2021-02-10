@@ -416,5 +416,6 @@ input[type="text"] {
         border-radius: 20px;
         padding: 40px;
         overflow: hidden;
+        height:400px
     }
 }
