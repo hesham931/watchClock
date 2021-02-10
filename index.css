@@ -390,4 +390,25 @@ input[type="text"] {
     .intro{
         height:1500px
     }
+    .background_image , .watches_splach , .para_watch{
+        height:700px
+    }
+    .explore , .buy , .buy a , input[type="text"] , input[type="password"] , input[type="submit"] , .me , .me a{
+        font-size:30px
+    }
+    *{
+        font-size:20px
+    }
+    .arrow{
+        width:150px
+    }
+    .arrow a{
+        font-size:70px
+    }
+    .logo{
+        font-size:60px
+    }
+    .intro_text{
+        font-size:70px
+    }
 }
